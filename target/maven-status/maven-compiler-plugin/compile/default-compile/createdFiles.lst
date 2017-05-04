@@ -1,0 +1,12 @@
+io\egens\exception\NotFoundException.class
+io\egens\serviceIm\UserServiceImpl.class
+io\egens\api\ServeletInizilizar.class
+io\egens\pojo\User.class
+io\egens\repositoryImpl\RepositoryImpl.class
+io\egens\api\JPAConfig.class
+io\egens\Controller\UserController.class
+io\egens\exception\BadRequestException.class
+io\egens\api\WebConfig.class
+io\egens\service\UserService.class
+io\egens\api\SwaggerConfig.class
+io\egens\repository\UserRepository.class
